@@ -2,7 +2,7 @@
   "name": "ep1",
   "version": "1.0.0",
   "description": "Comprendre et utiliser les types primitifs et créer une interface simple.",
-  "main": "index.js",
+  "main": "personne.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

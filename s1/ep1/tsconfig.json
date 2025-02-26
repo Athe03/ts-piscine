@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-        "outDir": "dist/personne.js",
+        "outDir": "dist",
         "target": "ES6",
         "noEmitOnError": true,
         "strict": true,
